@@ -1,0 +1,15 @@
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp2/bin/Debug/net7.0/consoleApp2
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp2/bin/Debug/net7.0/consoleApp2.deps.json
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp2/bin/Debug/net7.0/consoleApp2.runtimeconfig.json
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp2/bin/Debug/net7.0/consoleApp2.dll
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp2/bin/Debug/net7.0/consoleApp2.pdb
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp2/obj/Debug/net7.0/consoleApp2.csproj.AssemblyReference.cache
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp2/obj/Debug/net7.0/consoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp2/obj/Debug/net7.0/consoleApp2.AssemblyInfoInputs.cache
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp2/obj/Debug/net7.0/consoleApp2.AssemblyInfo.cs
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp2/obj/Debug/net7.0/consoleApp2.csproj.CoreCompileInputs.cache
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp2/obj/Debug/net7.0/consoleApp2.dll
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp2/obj/Debug/net7.0/refint/consoleApp2.dll
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp2/obj/Debug/net7.0/consoleApp2.pdb
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp2/obj/Debug/net7.0/consoleApp2.genruntimeconfig.cache
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp2/obj/Debug/net7.0/ref/consoleApp2.dll
