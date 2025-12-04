@@ -18,7 +18,7 @@ Console.WriteLine(ogrenciDogumYili);
 Console.WriteLine(ogrenciAdres);
 Console.WriteLine(ogrenciYasi);
 
-var urun1 = 50;
+var urun1 = 40;
 var urun2 = 60.5;
 var urun3 = 356.45;
 var toplam = urun1 + urun2 + urun3;
