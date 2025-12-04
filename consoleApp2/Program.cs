@@ -11,4 +11,3 @@ Console.WriteLine(baslangic);
 Console.WriteLine(konum);
 Console.WriteLine(degistirme);
 Console.WriteLine(iceriyorMu);
-
