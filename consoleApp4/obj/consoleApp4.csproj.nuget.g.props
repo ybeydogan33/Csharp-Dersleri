@@ -8,7 +8,7 @@
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/Users/yavuzbeydogan/.nuget/packages/</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.4.0</NuGetToolVersion>
-  </PropertyGroup>
+  </PropertyGroup> 
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="/Users/yavuzbeydogan/.nuget/packages/" />
   </ItemGroup>
