@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Deneme!");
+﻿string kursAdi = ".NET 7 ile C# Programlama Dili";
+var karakter = kursAdi.Length;
+var kucuk = kursAdi.ToLower();
+var baslangic = kursAdi.StartsWith(".");
+var konum = kursAdi.IndexOf("C#");
+var iceriyorMu = kursAdi.Contains("C#");
+var degistirme = kursAdi.Replace("Dili","Dersleri");
+Console.WriteLine(karakter);
+Console.WriteLine(kucuk);
+Console.WriteLine(baslangic);
+Console.WriteLine(konum);
+Console.WriteLine(degistirme);
+Console.WriteLine(iceriyorMu);
+
