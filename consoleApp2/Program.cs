@@ -1,7 +1,7 @@
 ﻿string kursAdi = ".NET 7 ile C# Programlama Dili";
 var karakter = kursAdi.Length;
 var kucuk = kursAdi.ToLower();
-var baslangic = kursAdi.StartsWith(".");
+var baslangic = kursAdi.StartsWith("N");
 var konum = kursAdi.IndexOf("C#");
 var iceriyorMu = kursAdi.Contains("C#");
 var degistirme = kursAdi.Replace("Dili","Dersleri");
