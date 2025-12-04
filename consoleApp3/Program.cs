@@ -1,5 +1,5 @@
-﻿string[] ogrenciAd = new string[3];
-int[] ogrenciNot = new int[3];
+﻿string[] ogrenciAd = new string[4];
+int[] ogrenciNot = new int[4];
 
 Console.Write("1. Öğrencinin İsmini Giriniz: ");
 ogrenciAd[0] = Console.ReadLine() ?? "";
