@@ -30,4 +30,4 @@ string email = "yavuzalp@gmail.com";
 string username = "yavuz123";
 string password = "123456";
 var sonuc4 = ((username=="yavuz123")||(email=="yavuzalp@gmail.com")) && (password=="123456")? "Giriş Yapıldı.": "Yanlış Şifre veya kullanıcı adı.";
-Console.WriteLine(sonuc4);
+Console.WriteLine(sonuc4); 
