@@ -1,0 +1,15 @@
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp10/bin/Debug/net7.0/consoleApp10
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp10/bin/Debug/net7.0/consoleApp10.deps.json
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp10/bin/Debug/net7.0/consoleApp10.runtimeconfig.json
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp10/bin/Debug/net7.0/consoleApp10.dll
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp10/bin/Debug/net7.0/consoleApp10.pdb
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp10/obj/Debug/net7.0/consoleApp10.csproj.AssemblyReference.cache
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp10/obj/Debug/net7.0/consoleApp10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp10/obj/Debug/net7.0/consoleApp10.AssemblyInfoInputs.cache
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp10/obj/Debug/net7.0/consoleApp10.AssemblyInfo.cs
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp10/obj/Debug/net7.0/consoleApp10.csproj.CoreCompileInputs.cache
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp10/obj/Debug/net7.0/consoleApp10.dll
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp10/obj/Debug/net7.0/refint/consoleApp10.dll
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp10/obj/Debug/net7.0/consoleApp10.pdb
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp10/obj/Debug/net7.0/consoleApp10.genruntimeconfig.cache
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp10/obj/Debug/net7.0/ref/consoleApp10.dll
