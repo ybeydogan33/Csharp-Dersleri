@@ -21,3 +21,4 @@ for (var hak =5; hak>0; hak--){
         break;
     }
 }
+ 
