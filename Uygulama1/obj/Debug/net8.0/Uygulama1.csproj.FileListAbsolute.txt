@@ -1,0 +1,15 @@
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/Uygulama1/bin/Debug/net8.0/Uygulama1
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/Uygulama1/bin/Debug/net8.0/Uygulama1.deps.json
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/Uygulama1/bin/Debug/net8.0/Uygulama1.runtimeconfig.json
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/Uygulama1/bin/Debug/net8.0/Uygulama1.dll
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/Uygulama1/bin/Debug/net8.0/Uygulama1.pdb
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/Uygulama1/obj/Debug/net8.0/Uygulama1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/Uygulama1/obj/Debug/net8.0/Uygulama1.AssemblyInfoInputs.cache
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/Uygulama1/obj/Debug/net8.0/Uygulama1.AssemblyInfo.cs
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/Uygulama1/obj/Debug/net8.0/Uygulama1.csproj.CoreCompileInputs.cache
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/Uygulama1/obj/Debug/net8.0/Uygulama1.sourcelink.json
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/Uygulama1/obj/Debug/net8.0/Uygulama1.dll
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/Uygulama1/obj/Debug/net8.0/refint/Uygulama1.dll
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/Uygulama1/obj/Debug/net8.0/Uygulama1.pdb
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/Uygulama1/obj/Debug/net8.0/Uygulama1.genruntimeconfig.cache
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/Uygulama1/obj/Debug/net8.0/ref/Uygulama1.dll

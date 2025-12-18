@@ -3,7 +3,6 @@
 /Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp14/bin/Debug/net7.0/consoleApp14.runtimeconfig.json
 /Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp14/bin/Debug/net7.0/consoleApp14.dll
 /Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp14/bin/Debug/net7.0/consoleApp14.pdb
-/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp14/obj/Debug/net7.0/consoleApp14.csproj.AssemblyReference.cache
 /Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp14/obj/Debug/net7.0/consoleApp14.GeneratedMSBuildEditorConfig.editorconfig
 /Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp14/obj/Debug/net7.0/consoleApp14.AssemblyInfoInputs.cache
 /Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp14/obj/Debug/net7.0/consoleApp14.AssemblyInfo.cs
@@ -13,3 +12,4 @@
 /Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp14/obj/Debug/net7.0/consoleApp14.pdb
 /Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp14/obj/Debug/net7.0/consoleApp14.genruntimeconfig.cache
 /Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp14/obj/Debug/net7.0/ref/consoleApp14.dll
+/Users/yavuzbeydogan/Desktop/Yazılım Projeler/Csharp-Dersleri/consoleApp14/obj/Debug/net7.0/consoleApp14.sourcelink.json
