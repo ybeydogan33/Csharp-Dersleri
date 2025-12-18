@@ -56,12 +56,29 @@ namespace consoleApp14
             {
                 kisiler.KendiniTanit();
                 kisiler.DersIsle();
-            }
+            }            
+                ogrenci1.sarkiSoyle();
+                ogrenci2.sporYap();
+                
         }
     }
     abstract class Kisi
     {
-        public string TC{get; set;}
+        private string _tc;
+        public string TC
+        {
+            get{return _tc;}
+            set {
+                if (value.Length == 11)
+                {
+                    _tc = value; // 11 hane ise kasaya koy
+                }
+                else
+                {
+                    Console.WriteLine("⚠️ HATA: TC Kimlik No 11 haneli olmalıdır! Değer atanmadı.");
+                }
+                }
+        }
         public string AdSoyad{get; set;}
         public string Cinsiyet {get; set;}
         public string Fakulte{get; set;}
@@ -72,7 +89,15 @@ namespace consoleApp14
         }
         public abstract void DersIsle();
     }
-    class Ogrenci : Kisi
+    interface IMuzisyen
+    {
+        void sarkiSoyle();
+    }
+    interface ISporcu
+    {
+        void sporYap();
+    }
+    class Ogrenci : Kisi , IMuzisyen, ISporcu
     {
         //properties
         public string OkulNo {get; set;}
@@ -90,6 +115,15 @@ namespace consoleApp14
         {
             Console.WriteLine("Ben öğrenciyim, dersi can kulağıyla dinliyorum. 👂");
         }
+        public void sarkiSoyle()
+        {
+            Console.WriteLine($"Merhaba ben {this.AdSoyad}. Ders aralarında gitar çalıyorum! 🎸");
+        }
+        public void sporYap()
+        {
+            Console.WriteLine($"Merhaba ben {this.AdSoyad}. Hafta sonları koşuya çıkıyorum! 🏃");
+        }
+
 
 
     }
